@@ -1,6 +1,6 @@
-a:4:{s:9:"date-from";s:5:"03-01";s:7:"date-to";s:5:"04-30";s:9:"fish-name";s:5:"suger";s:11:"fish-length";s:4:"40cm";}
+a:4:{s:9:"date-from";s:5:"03-01";s:7:"date-to";s:5:"04-30";s:9:"fish-name";s:5:"suger";s:11:"fish-length";s:5:"Nincs";}
 a:4:{s:9:"date-from";s:5:"03-01";s:7:"date-to";s:5:"04-30";s:9:"fish-name";s:5:"balin";s:11:"fish-length";s:4:"40cm";}
-a:4:{s:9:"date-from";s:5:"02-01";s:7:"date-to";s:5:"03-31";s:9:"fish-name";s:5:"csuka";s:11:"fish-length";s:4:"15cm";}
+a:4:{s:9:"date-from";s:5:"02-01";s:7:"date-to";s:5:"03-31";s:9:"fish-name";s:5:"csuka";s:11:"fish-length";s:4:"40cm";}
 a:4:{s:9:"date-from";s:5:"03-01";s:7:"date-to";s:5:"04-30";s:9:"fish-name";s:10:"fogassullo";s:11:"fish-length";s:4:"30cm";}
 a:4:{s:9:"date-from";s:5:"03-01";s:7:"date-to";s:5:"06-30";s:9:"fish-name";s:7:"kosullo";s:11:"fish-length";s:4:"25cm";}
 a:4:{s:9:"date-from";s:5:"04-15";s:7:"date-to";s:5:"05-31";s:9:"fish-name";s:5:"garda";s:11:"fish-length";s:4:"20cm";}
