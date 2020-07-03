@@ -1,0 +1,6 @@
+
+a:6:{s:2:"id";i:191;s:4:"user";s:4:"lipe";s:8:"location";s:10:"Amritszár";s:8:"fishlist";s:4:"amur";s:4:"date";s:10:"2020-05-19";s:6:"weigth";s:1:"7";}
+a:6:{s:2:"id";i:194;s:4:"user";s:4:"root";s:8:"location";s:4:"Duna";s:8:"fishlist";s:4:"amur";s:4:"date";s:10:"2020-05-13";s:6:"weigth";s:3:"0.2";}
+a:6:{s:2:"id";i:342;s:4:"user";s:4:"root";s:8:"location";s:4:"Duna";s:8:"fishlist";s:7:"kosullo";s:4:"date";s:10:"2020-05-20";s:6:"weigth";s:2:"45";}
+a:6:{s:2:"id";i:492;s:4:"user";s:4:"user";s:8:"location";s:4:"Duna";s:8:"fishlist";s:10:"fogassullo";s:4:"date";s:10:"2020-05-15";s:6:"weigth";s:1:"5";}
+a:6:{s:2:"id";i:645;s:4:"user";s:4:"user";s:8:"location";s:4:"Duna";s:8:"fishlist";s:7:"kosullo";s:4:"date";s:10:"2020-05-14";s:6:"weigth";s:1:"3";}

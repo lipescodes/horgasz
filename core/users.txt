@@ -1,0 +1,5 @@
+a:3:{s:8:"username";s:4:"root";s:5:"email";s:14:"root@root.root";s:8:"password";s:6:"pwd001";}
+a:3:{s:8:"username";s:4:"user";s:5:"email";s:12:"wser@user.us";s:8:"password";s:6:"pwd001";}
+a:3:{s:8:"username";s:5:"uesr2";s:5:"email";s:11:"asd@asd.asd";s:8:"password";s:6:"pwd001";}
+a:3:{s:8:"username";s:5:"user3";s:5:"email";s:11:"asd@asd.asd";s:8:"password";s:6:"pwd001";}
+a:3:{s:8:"username";s:4:"lipe";s:5:"email";s:11:"lipe@lip.li";s:8:"password";s:6:"pwd001";}
